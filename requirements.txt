@@ -1,12 +1,9 @@
 langchain
-langchain-community
+langchain-communit
 langchain-text-splitters
 flask
 sentence-transformers==2.2.2
-langchain-openai
-langchain-text-splitters
-flask
-sentence-transformers
+torch==2.2.2
 pypdf
 python-dotenv
 langchain-pinecone
