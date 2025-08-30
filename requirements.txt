@@ -1,15 +1,12 @@
 langchain
 langchain-community
-<<<<<<< HEAD
 langchain-text-splitters
 flask
 sentence-transformers==2.2.2
-=======
 langchain-openai
 langchain-text-splitters
 flask
 sentence-transformers
->>>>>>> 3d7019ce09939227b97c8e6f6f212a44108d42c2
 pypdf
 python-dotenv
 langchain-pinecone
