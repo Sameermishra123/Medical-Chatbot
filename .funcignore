@@ -1,6 +1,37 @@
+# Bytecode and cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
 .venv/
 env/
 venv/
+
+# Git files
 .git/
+.gitignore
+.gitattributes
+
+# Local environment and secrets
+.env
+local.settings.json
+
+# Jupyter notebooks (not needed in deployment)
+*.ipynb
+research/
+
+# Build and packaging
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Logs
+*.log
+
+
+# IDE / editor configs
+.vscode/
+.idea/
